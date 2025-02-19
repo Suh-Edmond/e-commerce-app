@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: shipmentservice
+
+server:
+  port: 8003
+  servlet:
+    context-path: /shipment-management

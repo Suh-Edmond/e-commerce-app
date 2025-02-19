@@ -1,0 +1,8 @@
+spring:
+  application:
+  name: userservice
+
+server:
+  port: 8004
+  servlet:
+    context-path: /user-management

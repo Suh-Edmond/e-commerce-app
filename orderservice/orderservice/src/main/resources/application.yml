@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: oderservice
+
+server:
+  port: 8000
+  servlet:
+    context-path: /order-management
+

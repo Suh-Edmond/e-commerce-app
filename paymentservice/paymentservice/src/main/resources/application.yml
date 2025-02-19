@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: paymentservice
+
+server:
+  port: 8001
+  servlet:
+    context-path: /payment-management
+
